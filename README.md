@@ -26,9 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ap0rtzW" data-context="false" ><a href="//imgur.com/a/ap0rtzW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="//imgur.com/a/ap0rtzW">Here's a walkthrough of implemented user stories</a>
 
 GIF created with Quicktime and Imgur.
 
